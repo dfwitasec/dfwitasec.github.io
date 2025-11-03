@@ -49,7 +49,7 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
     <img src="{{ '/images/battiato.jpeg' | relative_url }}" alt="Sebastiano Battiato"
          style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px;">
-      <a href="https://www.saiferlab.ai/people/sebastianobattiato" target="_blank">Sebastiano Battiato</a><br>
+      <a href="https://web.dmi.unict.it/docenti/sebastiano.battiato" target="_blank">Sebastiano Battiato</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Catania (UNICT)</span>
     </p>
   </div>
@@ -58,7 +58,7 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
     <img src="{{ '/images/lucacadonici.webp' | relative_url }}" alt="Luca Cadonici"
          style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px;">
-      <a href="https://www.saiferlab.ai/people/lucacadonici" target="_blank">Luca Cadonici</a><br>
+      <a href="https://www.novaeraforensics.it/" target="_blank">Luca Cadonici</a><br>
       <span style="font-size: 0.8em; font-style: italic;">European Forensics Institute</span>
     </p>
   </div>
