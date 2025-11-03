@@ -45,7 +45,7 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
 
 
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/silvia.jpg' | relative_url }}" alt="Sebastiano Battiato" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
+    <img src="{{ '/images/battiato.jpeg' | relative_url }}" alt="Sebastiano Battiato" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
       <a href="https://www.saiferlab.ai/people/silviasanna" target="_blank">Sebastiano Battiato</a><br>
       <span style="font-size: 0.8em; font-style: italic;">University of Catania (UNICT)</span>
@@ -55,7 +55,7 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
 
 
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/silvia.jpg' | relative_url }}" alt="Luca Cadonici" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
+    <img src="{{ '/images/lucacadonici.webp' | relative_url }}" alt="Luca Cadonici" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
       <a href="https://www.saiferlab.ai/people/silviasanna" target="_blank">Luca Cadonici</a><br>
       <span style="font-size: 0.8em; font-style: italic;">European Forensics Institute</span>
