@@ -34,6 +34,8 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
 
 ### Workshop Organizers:
 
+<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
+  
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/silvia.jpg' | relative_url }}" alt="Silvia Lucia Sanna" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
@@ -41,9 +43,6 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
-</div>
-
-
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/battiato.jpeg' | relative_url }}" alt="Sebastiano Battiato" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
@@ -52,9 +51,7 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
     </p>
   </div>
 </div>
-
-
-  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
+<div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/lucacadonici.webp' | relative_url }}" alt="Luca Cadonici" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
       <a href="https://www.saiferlab.ai/people/silviasanna" target="_blank">Luca Cadonici</a><br>
@@ -62,6 +59,7 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
     </p>
   </div>
 </div>
+
 
 ### Contact:
 
