@@ -47,7 +47,10 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
     </p>
   </div>
 </div>
+</div>
 
 ## Contact
 
-For any question or info, please contact Silvia Lucia Sanna at: [silvial.sanna@unica.it](mailto:silvial.sanna@unica.it)
+For any question or info, please contact Silvia Lucia Sanna at:  
+[silvial.sanna@unica.it](mailto:silvial.sanna@unica.it)
+
