@@ -10,10 +10,11 @@ nav: true
 
 ## Important Dates
 
-* December 27, 2024: Deadline for Workshop Paper Submission
-* January 12, 2025: Author Notification
-* February 3-8, 2025: Conference (CTF-W workshop day yet to be decided)
-* February 20, 2025: Camera-ready deadline
+* 5 November 2025: Call for Papers to Be Published for Workshops
+* 5 December 2025: Deadline for Paper Submission for Workshops
+* 20 December 2025: Notification of Workshop Paper Acceptance
+* 10 January 2026: Deadline for Final Paper Submission for Workshops
+* 09 February 2026: Workshop Date
 
 <br>
 
@@ -21,24 +22,20 @@ nav: true
 
 Topics of interest include (but are not limited to):
 
-* Senior players experience in CTFs (top-tier competitions)
-* Apply CTFs techniques to real-world scenarios
-* Tools developed for CTFs (Jeopardy and A/D)
-* Importance of CTFs in cybersecurity training
 
 <br>
 
 ## Submission Guidelines
 
-All proposals must be submitted by 27/12/2024 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=ctf4w](https://easychair.org/conferences/?conf=ctf4w) (proposals of only one author can be submitted)
+All proposals must be submitted by 5/12/2025 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=ctf4w](https://easychair.org/conferences/?conf=ctf4w) (proposals of only one author can be submitted)
 
 <br>
 
 ## Workshop Chairs
 
-Davide Maiorca (University of Cagliari, Italy)<br>
-Emilio Coppa (LUISS Guido Carli, Italy)<br> 
-Marina Ribaudo (University of Cagliari, Italy)<br>
+Silvia Lucia Sanna (University of Cagliari, Italy)<br>
+Sebastiano Battiato (University of Catania, Italy)<br> 
+Luca Cadonici (European Forensics Institute, Malta)<br>
 <br> 
 
 ## Program Chair
