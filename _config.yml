@@ -18,13 +18,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Capture the Flag for work (CTF-W)
+title: Digital Forensics Workshop
 
 email: 
 description: >- # this means to ignore newlines until "baseurl:"
   Capture the Flag for Work (CTF-W) - Workshop co-located with ITASEC 2025
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://ctf-w-workshop.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dfwitasec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
