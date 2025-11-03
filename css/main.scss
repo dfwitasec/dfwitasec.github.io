@@ -1,0 +1,97 @@
+---
+# front matter
+---
+
+/* basic color customizations */
+$border-color: #24377c;
+$link-color: #2a7ae2 !default;
+$active-color: #2a7ae2;
+$text-color:#111 !default;
+$headings-color: #24377c;
+$background-color: #fdfdfd !default;
+
+
+
+/* Add a background color to the header */
+.site-header {
+  padding: 20px 0; /* Optional: add padding to make the header taller */
+  width: 100%; /* Ensure it spans the full width */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional: add a subtle shadow */
+}
+
+/* Center the entire header content */
+.site-header .wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+/* Style the navigation links */
+.site-nav .page-link {
+  font-size: 1.25em; /* Adjust font size as needed */
+  font-weight: bold; /* Optional for bold font */
+  text-decoration: none;
+  color: #000; /* Adjust color if needed */
+  margin: 0 10px; /* Space between links */
+}
+
+.itasec-link {
+  text-decoration: underline;
+}
+
+/* Remove default link styles on hover (optional) */
+.site-nav .page-link:hover {
+  text-decoration: underline;
+}
+
+/* font base */ 
+@font-face {
+  font-family: 'Noto Sans';
+  src:  url('fonts/notosans-regular-webfont.woff') format('woff');
+}
+@font-face {
+  font-family: 'Source Code Pro';
+  src:  url('fonts/sourcecodepro-regular-webfont.woff') format('woff');
+}
+$base-font-family: 'Noto Sans', Helvetica, Arial, sans-serif !default;
+$code-font-family: 'Source Code Pro', monospace;
+
+/* layout base */
+$base-font-size:   16px !default;
+$base-font-weight: 400 !default;
+$small-font-size:  $base-font-size * 0.875 !default;
+$base-line-height: 1.5 !default;
+
+$spacing-unit:     30px !default;
+
+
+$grey-color:       #828282 !default;
+$grey-color-light: lighten($grey-color, 40%) !default;
+$grey-color-dark:  darken($grey-color, 25%) !default;
+
+// Width of the content area
+$content-width:    1000px !default;
+
+$on-palm:          600px !default;
+$on-laptop:        800px !default;
+
+// Use media queries like this:
+// @include media-query($on-palm) {
+//   .wrapper {
+//     padding-right: $spacing-unit / 2;
+//     padding-left: $spacing-unit / 2;
+//   }
+// }
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
+  }
+}
+
+// Import partials.
+@import
+  "base",
+  "layout",
+  "custom"
+;
