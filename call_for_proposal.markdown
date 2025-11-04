@@ -38,7 +38,7 @@ Topics of interest include (but are not limited to):
 
 ## Submission Guidelines
 
-All proposals must be submitted by 5/12/2025 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=DFW-26](https://easychair.org/conferences/?conf=DFW-26) (proposals of only one author can be submitted)
+All proposals must be submitted by 5/12/2025 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=dfw26](https://easychair.org/conferences/?conf=dfw26) (proposals of only one author can be submitted)
 
 <br>
 
