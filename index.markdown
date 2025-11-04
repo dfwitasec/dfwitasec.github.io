@@ -31,27 +31,7 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
 ### Workshop Organizers:
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/davide.jpg' | relative_url }}" alt="Davide Maiorca" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
-    <p style="margin-top: 10px; text-align: center;">
-      <a href="https://www.saiferlab.ai/people/davidemaiorca" target="_blank">Davide Maiorca</a><br>
-      <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
-    </p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/emilio.jpg' | relative_url }}" alt="Emilio Coppa" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
-    <p style="margin-top: 10px; text-align: center;">
-      <a href="https://www.luiss.it/faculty/356596" target="_blank">Emilio Coppa</a><br>
-      <span style="font-size: 0.8em; font-style: italic;">LUISS Guido Carli</span>
-    </p>
-  </div>
-  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
-    <img src="{{ '/images/marina.jpg' | relative_url }}" alt="Marina Ribaudo" style="width: 100px; height: 100px; object-fit: cover; border-radius: 50%;">
-    <p style="margin-top: 10px; text-align: center;">
-      <a href="https://rubrica.unige.it/personale/VUZBWlNr" target="_blank">Marina Ribaudo</a><br>
-      <span style="font-size: 0.8em; font-style: italic;">University of Genoa (UNIGE)</span>
-    </p>
-  </div>
+  
   <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
     <img src="{{ '/images/silvia.jpg' | relative_url }}" alt="Silvia Lucia Sanna" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
     <p style="margin-top: 10px; text-align: center;">
@@ -59,6 +39,23 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
       <span style="font-size: 0.8em; font-style: italic;">University of Cagliari (UNICA)</span>
     </p>
   </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
+    <img src="{{ '/images/battiato.jpeg' | relative_url }}" alt="Sebastiano Battiato" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
+    <p style="margin-top: 10px; text-align: center;">
+      <a href="https://web.dmi.unict.it/docenti/sebastiano.battiato" target="_blank">Sebastiano Battiato</a><br>
+      <span style="font-size: 0.8em; font-style: italic;">University of Catania (UNICT)</span>
+    </p>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center; flex-basis: 30%;">
+    <img src="{{ '/images/lucacadonici.webp' | relative_url }}" alt="Luca Cadonici" style="width: 100px; height: 100px; object-fit: cover; object-position: 50% 10%; border-radius: 50%;">
+    <p style="margin-top: 10px; text-align: center;">
+      <a href="https://www.novaeraforensics.it/" target="_blank">Luca Cadonici</a><br>
+      <span style="font-size: 0.8em; font-style: italic;">European Forensics Institute (Malta)</span>
+    </p>
+  </div>
+  
 </div>
 
 
