@@ -25,6 +25,8 @@ Welcome to the Digital Forensics workshop webpage, which hosts all the info and 
 
 ## Workshop Abstract  
 
+This workshop provides a forum for digital forensic consultants (CTU/CTP), industry, law enforcement, judiciary, and academia to discuss current challenges and future directions in Digital Forensics. Unlike existing events with a mainly academic focus, it emphasizes practical issues and solutions relevant to real investigations. The program will explore limitations of current forensic tools and methodologies in areas such as mobile forensics, memory and computer acquisition, IoT, and open-source tools. Emerging challenges will also be addressed, including the forensic analysis of AI-generated content (e.g., deepfakes) and the application of AI techniques to support investigations. Both technical and legal perspectives will be considered to ensure solutions are effective and admissible in court. The workshop will include introductory talks, thematic discussions moderated among professionals, and paper presentations. Submissions are encouraged on novel methodologies, guidelines, and protocols for the forensic analysis of mobile, IoT, and AI-related data.<img width="499" height="237" alt="image" src="https://github.com/user-attachments/assets/b6f84719-8e1f-4281-8663-f5d1ae1e976d" />
+
 
 <br>
 
