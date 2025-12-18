@@ -57,8 +57,8 @@ Silvia Lucia Sanna (University of Cagliari, Italy)
 
 ## Technical Program Committee
 
-Fausto Galvan (Università di Udine)
-Marco Fontani (Amped Software)
-Paolo Dal Checco (Università di Torino)
-Michele Ferrazzano (Università di Modena e Reggio Emilia)
-Andrea Oliveri (Eurecom)
+- Fausto Galvan (Università di Udine)
+- Marco Fontani (Amped Software)
+- Paolo Dal Checco (Università di Torino)
+- Michele Ferrazzano (Università di Modena e Reggio Emilia)
+- Andrea Oliveri (Eurecom)
