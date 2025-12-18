@@ -9,10 +9,10 @@ nav: true
 
 ## Important Dates
 
-* 5 November 2025: Call for Papers to Be Published for Workshops
 * 5 December 2025: Deadline for Paper Submission for Workshops
-* 20 December 2025: Notification of Workshop Paper Acceptance
-* 10 January 2026: Deadline for Final Paper Submission for Workshops
+* 18 December 2025: Extended Deadline for Paper Submission
+* 10 January 2025: Notification of Workshop Paper Acceptance
+* 20 January 2026: Deadline for Final Paper Submission for Workshops
 * 09 February 2026: Workshop Date
 
 <br>
