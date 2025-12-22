@@ -38,7 +38,7 @@ Topics of interest include (but are not limited to):
 
 ## Submission Guidelines
 
-All proposals must be submitted by 5/12/2025 in English with a maximum of one page at the following EasyChair link [https://easychair.org/conferences/?conf=dfw26](https://easychair.org/conferences/?conf=dfw26) (proposals of only one author can be submitted)
+All proposals must be submitted by 5/12/2025 in English, following the ITASEC submission guidelines [https://itasec.it/call-for-papers/](https://itasec.it/call-for-papers/), uploading the paper via EasyChair [https://easychair.org/conferences/?conf=dfw26](https://easychair.org/conferences/?conf=dfw26) (proposals of only one author can be submitted)
 
 <br>
 
