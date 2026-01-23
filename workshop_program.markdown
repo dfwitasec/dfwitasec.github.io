@@ -32,7 +32,7 @@ nav: true
 
 •	16:35 - 16:50 Valentino Lo Faro "Forensic Attribution of TikTok Video Provenance Through Metadata and Re-Encoding Analysis"
 
-•	16:50 - 17:05 Serafaino Pandolfini "Detecting Localized Deepfakes: How Well Do Synthetic Image Detectors Handle Inpainting?"
+•	16:50 - 17:05 Serafino Pandolfini "Detecting Localized Deepfakes: How Well Do Synthetic Image Detectors Handle Inpainting?"
 
 •	17:05 - 17:20 Silvia Sanna "An Explainable Memory Forensics Approach for Malware Analysis"
 
